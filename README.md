@@ -9,3 +9,4 @@ This repository contains my Java Projects
 - POP3 (Simple pop3 client)
 - FTP (FTP Client / Downloader - Socket based)
 - Stegano1 (Steganography Project) Hiding message in bmp file *IN SIMPLE WAY
+- Stegano2 (Steganography Project version 2) Added some Base coding etc.
