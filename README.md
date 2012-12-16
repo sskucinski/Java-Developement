@@ -10,3 +10,5 @@ This repository contains my Java Projects
 - FTP (FTP Client / Downloader - Socket based)
 - Stegano1 (Steganography Project) Hiding message in bmp file *IN SIMPLE WAY
 - Stegano2 (Steganography Project version 2) Added some Base coding etc.
+- Stegano3 (Steganography Project version 3) Hamming
+- Stegano4 (Steganography Project version 1) JPEG Analyzer
